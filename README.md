@@ -44,7 +44,7 @@ We designed a system for:
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **Frontend**: HTML, CSS, 
 - **Data Visualization**: Power BI (dashboards embedded)
 - **Backend (prototype)**: Jupyter Notebook for AI chat generation  
