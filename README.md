@@ -24,14 +24,23 @@ We designed a system for:
 
 ##  Repository Structure 
 ├── index.html # Landing page
+
 ├── reports.html # Health reports & progress tracking
+
 ├── Consultation Time Analysis.html # Visualization of consultation time data
+
 ├── Nutrient Cycle and Sugar Level Tracker.html # Nutrition & glucose tracking
+
 ├── Resilience Tracker.html # Stress & recovery visualization
+
 ├── ELYX REPORT.docx # Summary report document
+
 ├── ELYX CHATS.docx # AI-generated chat logs
+
 ├── chats_generated.ipynb # Notebook to generate conversations
+
 ├── Website Link # Deployed link (if hosted)
+
 
 ---
 
